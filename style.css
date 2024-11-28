@@ -83,17 +83,16 @@ color: #dc3545;
 }
 
 form button[type="submit"] {
-background-color: #d63384 !important;
-color: #fff !important;
-border: none !important;
-padding: 10px 20px !important;
-cursor: pointer !important;
-border-radius: 5px !important;
-font-size: 16px !important;
-
+background-color: #d63384 
+color: #ffff
+border: none 
+padding: 10px 20px 
+cursor: pointer 
+border-radius: 5px 
+font-size: 16px !
 }
 
 form button[type="submit"]:hover {
-background-color: #c53075 !important;
+background-color: #c53075 
 
 }
